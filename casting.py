@@ -22,4 +22,4 @@ weight = (input("enter your weight"))
 
 print("hi welcome !",name)
 print("ohh you are old",age)
-print("gret",weight)
+print("gret",weight) 
